@@ -1,0 +1,18 @@
+G:\C#Project\Лабораторная номер 2 Викторина\Viktorina\Viktorina\bin\Debug\Viktorina.exe.config
+G:\C#Project\Лабораторная номер 2 Викторина\Viktorina\Viktorina\bin\Debug\Viktorina.exe
+G:\C#Project\Лабораторная номер 2 Викторина\Viktorina\Viktorina\bin\Debug\Viktorina.pdb
+G:\C#Project\Лабораторная номер 2 Викторина\Viktorina\Viktorina\obj\Debug\Viktorina.csprojAssemblyReference.cache
+G:\C#Project\Лабораторная номер 2 Викторина\Viktorina\Viktorina\obj\Debug\Viktorina.Form1.resources
+G:\C#Project\Лабораторная номер 2 Викторина\Viktorina\Viktorina\obj\Debug\Viktorina.Properties.Resources.resources
+G:\C#Project\Лабораторная номер 2 Викторина\Viktorina\Viktorina\obj\Debug\Viktorina.csproj.GenerateResource.cache
+G:\C#Project\Лабораторная номер 2 Викторина\Viktorina\Viktorina\obj\Debug\Viktorina.exe
+G:\C#Project\Лабораторная номер 2 Викторина\Viktorina\Viktorina\obj\Debug\Viktorina.pdb
+G:\C#Project\Лб 2 Викторина\Viktorina\Viktorina\bin\Debug\Viktorina.exe.config
+G:\C#Project\Лб 2 Викторина\Viktorina\Viktorina\bin\Debug\Viktorina.exe
+G:\C#Project\Лб 2 Викторина\Viktorina\Viktorina\bin\Debug\Viktorina.pdb
+G:\C#Project\Лб 2 Викторина\Viktorina\Viktorina\obj\Debug\Viktorina.csprojAssemblyReference.cache
+G:\C#Project\Лб 2 Викторина\Viktorina\Viktorina\obj\Debug\Viktorina.Form1.resources
+G:\C#Project\Лб 2 Викторина\Viktorina\Viktorina\obj\Debug\Viktorina.Properties.Resources.resources
+G:\C#Project\Лб 2 Викторина\Viktorina\Viktorina\obj\Debug\Viktorina.csproj.GenerateResource.cache
+G:\C#Project\Лб 2 Викторина\Viktorina\Viktorina\obj\Debug\Viktorina.exe
+G:\C#Project\Лб 2 Викторина\Viktorina\Viktorina\obj\Debug\Viktorina.pdb
